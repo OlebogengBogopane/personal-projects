@@ -11,3 +11,13 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .info ff {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display:block;
+    color :blue
+  }
